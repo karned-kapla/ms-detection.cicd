@@ -1,0 +1,11 @@
+NameSpace: karned
+AppName: ms-detection
+
+DockerImage: killiankopp/ms-detection:1.0.0
+
+Port: 8000
+
+API_NAME: ms-detection
+API_TAG_NAME: detection
+
+URL_API_GATEWAY: https://api.karned.bzh
